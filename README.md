@@ -7,7 +7,7 @@ A Simple Chess Engine with GUI
 
 A simple chess game made using alphabetic characters in C.
 
-Use your mouse to move the chess pieces.
+Use your KeyBoard to move the chess pieces.
 
 ## Features:
 ### 1. Shows the highlighted pieces
