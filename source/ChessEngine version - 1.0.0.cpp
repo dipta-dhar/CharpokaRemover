@@ -1,3 +1,11 @@
+/**
+ *      A Simple Chess Engine
+ *
+ *       author: dipta
+ *      created: 15-Sep-2018 02:52:20
+**/
+
+
 #include<time.h>
 #include<stdio.h>
 #include<string.h>
