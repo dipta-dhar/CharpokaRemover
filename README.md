@@ -20,7 +20,7 @@ Use your KeyBoard to move the chess pieces.
 
   i)  Single Mode
   
-  ii) Double Mode
+  ii) Double Mode 
   
 i)  Single Mode: This is a special mode in this game. This mode is also known as
                  computer vs human game (that is your opponent is computer).
