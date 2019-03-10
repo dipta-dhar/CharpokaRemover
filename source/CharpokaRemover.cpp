@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    const TCHAR batchFilePath[MAX_PATH] = _T("C:\\Users\\dipta\\Desktop\\remover.bat");
+    const TCHAR batchFilePath[MAX_PATH] = _T("Enter bat file Path \\remover.bat");
 
     TCHAR systemDirPath[MAX_PATH] = _T("");
     GetSystemDirectory( systemDirPath, sizeof(systemDirPath)/sizeof(_TCHAR) );
